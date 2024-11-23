@@ -1,0 +1,23 @@
+﻿<Window x:Name="MainWIndow" x:Class="prakticheskaya9.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:prakticheskaya9"
+        mc:Ignorable="d"
+        Title="Практическая 9" Height="450" Width="388" ResizeMode="NoResize" SizeToContent="Width">
+    <Grid>
+        <TextBox x:Name="InputTextBox" HorizontalAlignment="Left" Margin="60,42,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="68" Height="98" Background="#FFE4E2E2" TextChanged="InputTextBox_TextChanged" AcceptsReturn="True" VerticalScrollBarVisibility="Visible" Cursor="IBeam"/>
+        <Label Content="Ввод:" HorizontalAlignment="Left" Margin="23,56,0,0" VerticalAlignment="Top"/>
+        <Label Content="Массив:" HorizontalAlignment="Left" Margin="133,56,0,0" VerticalAlignment="Top"/>
+        <Rectangle HorizontalAlignment="Left" Height="53" Margin="192,42,0,0" Stroke="Black" VerticalAlignment="Top" Width="160"/>
+        <Button x:Name="ClearButton" Content="Очистить" HorizontalAlignment="Left" Margin="275,102,0,0" VerticalAlignment="Top" Height="40" Width="78" Background="#FF196AED" Click="ClearButton_Click" Cursor="Hand"/>
+        <Rectangle HorizontalAlignment="Left" Height="100" Margin="378,27,0,0" Stroke="Black" VerticalAlignment="Top" Width="10" Visibility="Hidden"/>
+        <Button x:Name="ResultButton" Content="Результат" HorizontalAlignment="Left" Margin="192,102,0,0" VerticalAlignment="Top" Height="40" Width="78" Background="#FFED1919" Cursor="No" Click="ResultButton_Click"/>
+        <Rectangle HorizontalAlignment="Left" Height="147" Margin="102,201,0,0" Stroke="Black" VerticalAlignment="Top" Width="258"/>
+        <Label Content="Результат:" HorizontalAlignment="Left" Margin="32,262,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="ResultLabel" HorizontalAlignment="Left" Margin="102,204,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="144" Width="258" AllowDrop="True"/>
+        <TextBlock x:Name="ArrayOutput" HorizontalAlignment="Left" Margin="194,43,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="52" Width="159"/>
+
+    </Grid>
+</Window>
