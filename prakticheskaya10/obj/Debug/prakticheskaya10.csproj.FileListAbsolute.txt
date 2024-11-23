@@ -1,0 +1,15 @@
+Z:\Projects\prakticheskaya10\prakticheskaya10\bin\Debug\prakticheskaya10.exe.config
+Z:\Projects\prakticheskaya10\prakticheskaya10\bin\Debug\prakticheskaya10.exe
+Z:\Projects\prakticheskaya10\prakticheskaya10\bin\Debug\prakticheskaya10.pdb
+Z:\Projects\prakticheskaya10\prakticheskaya10\obj\Debug\prakticheskaya10.csproj.AssemblyReference.cache
+Z:\Projects\prakticheskaya10\prakticheskaya10\obj\Debug\MainWindow.g.cs
+Z:\Projects\prakticheskaya10\prakticheskaya10\obj\Debug\App.g.cs
+Z:\Projects\prakticheskaya10\prakticheskaya10\obj\Debug\prakticheskaya10_MarkupCompile.cache
+Z:\Projects\prakticheskaya10\prakticheskaya10\obj\Debug\prakticheskaya10_MarkupCompile.lref
+Z:\Projects\prakticheskaya10\prakticheskaya10\obj\Debug\MainWindow.baml
+Z:\Projects\prakticheskaya10\prakticheskaya10\obj\Debug\prakticheskaya10.g.resources
+Z:\Projects\prakticheskaya10\prakticheskaya10\obj\Debug\prakticheskaya10.Properties.Resources.resources
+Z:\Projects\prakticheskaya10\prakticheskaya10\obj\Debug\prakticheskaya10.csproj.GenerateResource.cache
+Z:\Projects\prakticheskaya10\prakticheskaya10\obj\Debug\prakticheskaya10.csproj.CoreCompileInputs.cache
+Z:\Projects\prakticheskaya10\prakticheskaya10\obj\Debug\prakticheskaya10.exe
+Z:\Projects\prakticheskaya10\prakticheskaya10\obj\Debug\prakticheskaya10.pdb
